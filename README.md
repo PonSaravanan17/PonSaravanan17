@@ -70,13 +70,13 @@
 - Database integration
 - Financial report generation
 
-### 🔥 Fire Detection & Extinguishing Robot
-- IoT-based autonomous system
-- Real-time fire detection
-- Automated response mechanism
-
 ---
-
+### 🎮 Connect 4 Game
+- Built a fully functional Connect 4 game with an interactive and responsive UI.
+- Implemented efficient win-checking algorithms and game state management.
+- Applied problem-solving and object-oriented programming concepts to create scalable game logic.
+- Enhanced user experience with smooth gameplay and intuitive design.
+  
 
 ## 🏆 Certifications
 

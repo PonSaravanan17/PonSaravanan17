@@ -77,25 +77,6 @@
 - Enhanced user experience with smooth gameplay and intuitive design.
 ---
   
-
-## 🏆 Certifications
-
-✔ GitHub Copilot – Microsoft
-
-✔ Generative AI Developer – SAP
-
-✔ Machine Learning – NPTEL
-
-✔ IoT – NPTEL
-
-✔ Java Programming – NPTEL
-
-✔ Git & GitHub – Coursera
-
-✔ C Programming – Coursera
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
